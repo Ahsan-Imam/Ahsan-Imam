@@ -26,7 +26,7 @@
 
 - **🌱 Currently working on:** Fullstack Development, DSA, Machine Learning (and a bit of AI... maybe 😁)<br><br>
 - **🤝 Open to collaborate on:** Interesting & impactful projects — crazy & humorous ones too! (Ready to intern!)<br><br>
-- **✍️ Articles:** [LinkedIn Posts](www.linkedin.com/in/md-ahsan-imam-235015329/)<br><br>
+- **✍️ Articles:** [LinkedIn Posts](https://www.linkedin.com/in/md-ahsan-imam-235015329/)<br><br>
 - **📧 Reach me:** ahsanimam0189@gmail.com<br><br>
 - **🤯 Fun fact:** Don’t book a judge by its cover(maybe u can).
 
